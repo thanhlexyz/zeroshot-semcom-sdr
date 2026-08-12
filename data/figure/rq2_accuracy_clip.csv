@@ -1,0 +1,5 @@
+dataset,method,tx_power,accuracy
+cifar10,semcom,-20,0.89
+cifar10,baseline,-20,0.82
+tsrd,semcom,-20,0.85
+tsrd,baseline,-20,0.7833333333333333

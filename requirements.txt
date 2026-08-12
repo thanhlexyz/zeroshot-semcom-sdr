@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+Pillow
+ftfy
+regex
+open_clip_torch
+timm
