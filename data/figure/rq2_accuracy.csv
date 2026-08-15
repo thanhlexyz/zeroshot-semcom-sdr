@@ -1,0 +1,7 @@
+dataset,series,tx_power,accuracy
+CIFAR-10,SemCom (CLIP),-20,0.89
+CIFAR-10,SemCom (MobileCLIP),-20,0.91
+CIFAR-10,JPEG + 16-QAM,-20,0.82
+TSRD,SemCom (CLIP),-20,0.85
+TSRD,SemCom (MobileCLIP),-20,1.0
+TSRD,JPEG + 16-QAM,-20,0.7833333333333333
