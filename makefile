@@ -60,6 +60,12 @@ rq2-plot:
 	python3 -m scenario.rq2.plot --model=$(MODEL)
 
 # --------------------------------------------------------------------
+# Dataset examples (laptop: one image per class, raw datasets only)
+# --------------------------------------------------------------------
+examples-plot:
+	python3 -m scenario.examples.plot
+
+# --------------------------------------------------------------------
 # RQ3 (processing time on pi4; table on laptop)
 # --------------------------------------------------------------------
 # MobileCLIP: SemCom encode/decode only (baseline does not use the VL model)
